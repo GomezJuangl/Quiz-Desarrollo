@@ -3,7 +3,7 @@ package co.javeriana.dw.thymeleaf.model;
 
 import jakarta.persistence.Entity;
 
-@Entity
+
 
 public class Producto {
 
