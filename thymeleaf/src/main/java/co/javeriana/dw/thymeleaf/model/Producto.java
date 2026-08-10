@@ -1,7 +1,6 @@
 package co.javeriana.dw.thymeleaf.model;
 
 
-import jakarta.persistence.Entity;
 
 
 
